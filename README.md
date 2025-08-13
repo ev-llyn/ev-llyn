@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hello World! Seja bem-vindo(a) ao meu GitHub!  
 
-<!--
-**ev-llyn/ev-llyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a **Evellyn Marques**, tenho 22 anos e sou do **Rio de Janeiro, RJ**.  
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** (ADS)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aqui você vai encontrar projetos que desenvolvi para praticar, evoluir minhas habilidades e compartilhar minha jornada como desenvolvedora.  
+<div style="display: inline_block"><br>
+  <img align="center" alt="ev-llyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ev-llyn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ev-llyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ev-llyn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
