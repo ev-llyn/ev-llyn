@@ -1,9 +1,22 @@
-## 👋 Hello World! Seja bem-vindo(a) ao meu GitHub!  
+<p align="center"> Olá! Me chamo Evellyn Marques, tenho 22 anos e sou do Rio de Janeiro (RJ).
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atualmente estou em busca de uma oportunidade de estágio na área de T.I.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia e quero aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 
-Eu sou a **Evellyn Marques**, tenho 22 anos e sou do **Rio de Janeiro, RJ**.  
-🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** (ADS)
+<div> 
 
-🚀 Aqui você vai encontrar projetos que desenvolvi para praticar, evoluir minhas habilidades e compartilhar minha jornada como desenvolvedora.  
+<h3 align="left">Connect with me!</h3>
+
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:evellynmarquesf2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/evellyn-marques/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ev_llyyn/)
+
+
+
+
+<h3 align="left">My Stack ~</h3>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="ev-llyn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ev-llyn-Vscode" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
@@ -14,18 +27,7 @@ Eu sou a **Evellyn Marques**, tenho 22 anos e sou do **Rio de Janeiro, RJ**.
   <img align="center" alt="ev-llyn-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   <img align="center" alt="ev-llyn-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
-  
-  
-
-    
-
 </div>
-  
-##
 
-<div> 
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:evellynmarquesf2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-</div>
+
+
