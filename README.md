@@ -1,5 +1,14 @@
-<p align="center"> Olá! Me chamo Evellyn Marques, tenho 22 anos e sou do Rio de Janeiro (RJ).
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atualmente estou em busca de uma oportunidade de estágio na área de T.I.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&pause=1000&color=B23FF7&center=true&vCenter=true&multiline=true&width=435&lines=%E2%8A%B9+%E0%A3%AA+Hello+World!+Eu+sou+a+Evellyn+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+%E0%A3%AA+" alt="Typing SVG" />
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/header-gif.gif">
+
+#
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente estou em busca de uma **oportunidade de estágio na área de T.I.**
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia e quero aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
@@ -9,8 +18,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <h3 align="left">Connect with me!</h3>
 
   [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:evellynmarquesf2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/evellyn-marques/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ev_llyyn/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#981DF6FF&color:FFF)](https://www.linkedin.com/in/evellyn-marques/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=#981DF6FFcolor:FFF)](https://www.instagram.com/ev_llyyn/)
 
 
 
